@@ -29,3 +29,11 @@
 # Assignment Operators
 
 ![](image1/Assignment%20Operators.png)
+
+# Srring index
+
+![](image1/String%20index.png)
+
+# Null Undefined
+
+![](image1/Null%20and%20Undefined.png)
