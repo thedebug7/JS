@@ -40,3 +40,13 @@ its replace old string to new string which we gaven.
 # Array
 
 Array is mutable
+
+# Array method
+
+![](image3/Array-Method.png)
+
+# indexof
+
+![](image3/indexof-1.png)
+
+![](image3/indexof-2.png)
