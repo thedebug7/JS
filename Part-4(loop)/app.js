@@ -1,4 +1,4 @@
-console.log('hello');
+
 
 // for (let i=1; i<5; i=i+1){
 //     console.log(i);
@@ -38,6 +38,13 @@ console.log('hello');
 // while ((guess != favMovie) && (guess != "quit")){
 //     guess = prompt("Wrong Guess. Please try again later.")
 // }
+
+
+// Loop with Array
+const fruits = ["Apple", "Banana", "Orange", "Mango", "Grapes"];
+for(i = 0; i < fruits.length; i=i+1){
+    console.log(`${i + 1} - ${fruits[i]}`)
+}
 
 
 
